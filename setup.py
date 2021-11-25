@@ -8,6 +8,6 @@ setup(
     author='Belousov Alex',
     author_email='belousov.aka.alfa@gmail.com',
     url='https://github.com/belousovalex/prometheus_redis_client',
-    install_requires=['redis>=3.2.1,<4.0.0', ],
+    install_requires=['redis>=3.2.1,<5.0.0', ],
     license='Apache 2',
 )
